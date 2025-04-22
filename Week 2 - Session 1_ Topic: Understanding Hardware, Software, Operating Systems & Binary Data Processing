@@ -1,0 +1,73 @@
+Date: 21-Jan-2025
+Time: 12:00 PM – 1:30 PM
+
+In today's session, we discussed some foundational concepts in computing: hardware, software, operating systems, applications, and how computers understand our input. Initially, I found it difficult to understand the difference between hardware and software, but things became clearer through class discussion and further research outside class.
+
+So ,What I Learned
+1. Hardware
+Hardware refers to the physical parts of a computer ,anything you can touch.
+ Examples include the keyboard, CPU, monitor, mouse, hard drive, etc.
+
+2. Software
+Software is a set of instructions or programs that tell the hardware what to do.
+ Examples include operating systems, applications like Microsoft Word, Zoom, or games.
+
+3. Operating System (OS)
+The operating system is the main software that manages everything on a computer. It connects hardware and applications, runs the system smoothly, and provides the user interface.
+ Examples of OS for computers include Windows, macOS, and Linux.
+ For mobile phones, common OS are Android and iOS.
+
+4. Applications (Apps)
+Applications are software programs used for specific tasks.
+Examples: Chrome for browsing, Word for writing, WhatsApp for messaging.
+
+How They Are Connected actually 
+
+Hardware is the machine itself.
+The operating system sits on the hardware and manages it.
+Applications run on the operating system to perform specific functions.
+
+For example, on a phone:
+1. Hardware includes the screen, battery, and processor.
+2.The OS is Android or iOS.
+3.Apps include YouTube, Instagram, and the Camera.
+
+
+A Doubt I Had About Operating Systems
+
+I asked whether the operating system is also considered software.
+ Our instructor clarified that yes, the OS is indeed software but it is the main software.
+ Everything else, including applications and tools, runs on top of the OS.
+ The OS also controls the hardware and helps all other software run efficiently.
+
+And then my next discussion on how a Computer Understands Input 
+Computers work using a language called binary, which is made up of only two values: 1 and 0.
+1.1 represents ON (electricity is flowing)
+2.0 represents OFF (no electricity)
+
+This binary language is the only thing the computer's hardware can understand.
+So When we interact with a computer, for example by pressing a key:
+
+1.The keyboard sends an electrical signal.
+2.The signal is converted into binary using a system like ASCII.
+For example, the letter "A" becomes 01000001.
+3.The CPU (Central Processing Unit) processes this binary using millions of tiny switches called transistors.
+The processed result is shown on the screen or saved as data.
+
+
+I asked her one more question Why Binary Is Used
+Anuradha answers that Binary is simple and reliable. Computers work using transistors, which act as switches:
+
+1.ON (1) = High voltage
+2.OFF (0) = Low voltage
+
+This system is easier for electronic circuits to manage, making it efficient and error-resistant.
+
+Here is my best to understand it better 
+1.I press the "A" key on the keyboard.
+2.It gets converted to binary (01000001).
+3.The CPU processes it.
+4.The OS tells the screen to display the letter "A".
+
+In this session, I learned the difference between hardware and software, understood the role of operating systems and applications, and explored how they all connect.
+ I also gained a better understanding of how computers process input using binary and voltage signals inside electronic circuits.
