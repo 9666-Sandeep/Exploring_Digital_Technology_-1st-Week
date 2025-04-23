@@ -1,0 +1,51 @@
+Date: 23-Jan-2025
+Time: 12:00 PM – 1:30 PM
+
+In this session, we continued learning about how computers work at a deeper level. My main focus today was understanding what binary language is, why computers use it, and how numbers, especially integers, are written in binary form. I also got clarity on why decimal numbers are taught as a separate topic.
+
+So ,What I Learned
+
+Here is my 1st question ,what Is Binary Language?
+
+Binary is a language made up of only two digits: 0 and 1. It is the basic language of all computers. Every piece of data,Whether it’s text, images, video, or sound is stored and processed in the form of 1s and 0s. Each digit is called a bit, and groups of bits form more complex data.
+
+Here is my 2nd question, why Binary Is Needed
+Computers are built using electronic components called transistors, and each transistor can only be in one of two states:
+
+1.ON (current flows) = represented as 1
+2.OFF (no current) = represented as 0
+This makes binary the natural and most efficient language for computers. It’s simple, reliable, and works well with the physical design of hardware. Binary also creates a universal method for hardware and software to communicate.
+
+Here is my 3rd question,how Binary Helps Computers Understand Data
+Any input we give to a computer,whether it's typing on a keyboard, clicking a mouse,is eventually converted into binary so the computer can process it.
+ Examples include:
+The letter A becomes 01000001 in binary using a system like ASCII
+The number 5 becomes 101
+Once in binary form, the data is processed by the computer’s CPU and memory using millions of tiny transistors switching on and off.
+
+Here some Analogies That Helped Me Understand Binary
+ 1.Light bulbs: Think of a row of light bulbs. Each bulb can be ON (1) or OFF (0). The pattern of lights can represent different information.
+ 2.Switchboard: Imagine a giant panel of switches. If a switch is UP = 1, and DOWN = 0, then the combination of switch positions forms a code.
+
+
+Here is my 4th question That Why Binary Is So Powerful
+Binary makes processing fast and efficient. It allows computers to handle all types of information using only two voltage states: high and low. It also reduces errors and allows clear, stable signal processing.
+
+And today we learned that How to Write Integers in Binary
+We also practiced converting whole numbers  into binary form. Here's the process I followed:
+Example: Convert 18 to binary
+   1.Divide the number by 2 repeatedly and write down the remainders.
+   2.Stop when the quotient is 0, then write the remainders in reverse order.
+
+Binary for 18 = 10010
+This method works because each digit in a binary number represents a power of 2:
+
+  1.Rightmost digit = 2⁰
+  2.Next = 2¹
+  3.Then 2², and so on.
+
+Our instructor mentioned that we will learn about decimal numbers in binary in another class. I learned that this is because converting fractions to binary is more complex. It involves a different method where we multiply the decimal part by 2 and track the whole number part after each step.
+For now, learning to convert integers is a good foundation. Once we’re confident with whole numbers, working with decimals will make more sense.
+
+Here is my Summary of today's session.
+Today I gained a clear understanding of what binary language is and why it’s used in computing. I also learned how computers use binary to interpret everything we do, from typing to watching videos. Most importantly, I learned how to convert whole numbers to binary step by step. It was interesting to realize how the most advanced machines in the world rely on the simplest system: just 1s and 0s.
