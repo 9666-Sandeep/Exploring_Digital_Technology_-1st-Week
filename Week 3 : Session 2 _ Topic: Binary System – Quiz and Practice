@@ -1,0 +1,66 @@
+Week 3 : Session 2
+Date: 28-Jan-2025
+Time: 12:00 PM – 1:30 PM
+Topic: Binary System – Quiz and Practice
+
+In this session, we had an offline quiz based on binary number systems. The quiz tested our understanding of
+converting between binary and decimal, two’s complement representation, and working with 8-bit binary
+numbers. It was a practical application of everything we’ve been learning about how computers process data
+using binary digits (0s and 1s).
+
+Some questions were straightforward, especially the conversions from binary to decimal and vice versa.
+However, I made a few mistakes with the two’s complement representation, especially where negative
+numbers were involved. This helped me realize which parts I need to practice more.
+
+Topics Covered in the Quiz:
+1. Binary to Decimal Conversion
+We were asked to convert binary numbers like 100101, 1111111, and 11010 to decimal form. For example:
+● 100101 in binary = 37
+● 1111111 in binary = 127
+● 11010 in binary = 26
+
+The process involves multiplying each bit by a power of 2 and summing them from right to left.
+
+2. Decimal to Binary Conversion
+Some questions asked us to convert decimal numbers like 7, 13, 25, and 100 into binary.
+
+For example:
+● 7 = 00000111 (8-bit format)
+● 13 = 1101
+● 25 = 11001
+● 100 = 1100100
+
+This requires dividing the number by 2 repeatedly and recording the remainders in reverse order
+
+3. Two’s Complement Representation
+Several questions focused on representing negative integers in 8-bit two’s complement form. These were a bit
+more challenging.
+Examples included:
+● -20 = 11101100
+● -5 = 11111011
+To get the two’s complement, we convert the positive value to binary, invert the bits, and add 1.
+
+4. Two’s Complement to Decimal
+We also had to reverse the process: converting 8-bit two’s complement numbers back to decimal.
+Examples:
+● 11111100 = -4
+● 11111010 = -6
+
+In these questions, it’s important to recognize that if the first bit is 1, the number is negative, and we have to
+apply the two’s complement process in reverse to find the original value.
+
+My Performance and Reflection
+I answered many of the questions correctly, especially those related to direct binary - decimal conversion.
+However, I got a few questions wrong, particularly involving negative binary numbers in two’s complement.
+This showed me that while I understand the basic concepts, I still need more practice with binary operations
+that involve sign handling and 8-bit formatting.
+
+What helped me most was breaking down the questions step-by-step and understanding why each answer
+was correct or incorrect after reviewing them.
+
+Here is my Summary of today's session.
+This quiz was a great way to apply what I’ve been learning about binary systems in real scenarios. It helped
+reinforce my understanding of binary to decimal conversion, two’s complement representation, and how
+numbers are stored and processed in computers. I now know which topics I need to focus more on, especially
+negative numbers in binary and 8-bit formats. I plan to practice more examples and revisit two’s complement
+rules to gain full confidence.
