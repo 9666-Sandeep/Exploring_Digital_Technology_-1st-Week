@@ -1,0 +1,24 @@
+This is my Trial pull push using Ubuntu
+
+
+In today’s session, we focused on understanding BIOS and had a brief discussion about working with the Ubuntu command prompt.
+
+Our instructor first talked about BIOS and asked us to try opening it on our own laptops. At first, I didn’t clearly understand what BIOS was, but she explained that every computer system has a special software program that helps start the system  and that software is called BIOS.
+
+I learned that BIOS stands for Basic Input/Output System. It is a low-level program that starts running as soon as you switch on the laptop or desktop. Its job is to initialize and test the hardware like RAM, keyboard, hard disk, etc… and load the operating system. Without BIOS, a computer wouldn't know how to even start.
+
+The instructor mentioned that different laptop brands use different function keys to open the BIOS settings. Although I do not fully remember all the details she said, I do remember that she asked us to use keys like F1, F2, or other function keys depending on the system.
+ From my side, I understood that:
+      1. For Dell laptops: usually F2 key opens BIOS.
+      2. For HP laptops: often ESC key first, then F10.
+      3. For Lenovo laptops: F1 or sometimes Enter key + special button.
+       Each brand has its own shortcut to enter BIOS during the system startup. You have to press the correct key immediately when you switch on the laptop.
+
+After that, we moved into a short introduction about the Ubuntu command prompt. I understood that Ubuntu is a type of operating system based on Linux, and the command prompt also called "Terminal", is where users can type text commands to interact with the system instead of using mouse clicks.
+
+Although we didn’t go very deep into Ubuntu commands today, the session gave me a basic idea that learning to use a terminal is important, especially when dealing with Linux-based systems.
+
+Here is my Summary of today's session.
+
+In this session, I got introduced to the concept of BIOS and understood that it is the first system that runs when we power on a laptop. I also learned that different systems use different function keys like F1, F2, or ESC to access BIOS settings.
+ Additionally, I had a small exposure to the Ubuntu command prompt, realizing that command-line usage is
